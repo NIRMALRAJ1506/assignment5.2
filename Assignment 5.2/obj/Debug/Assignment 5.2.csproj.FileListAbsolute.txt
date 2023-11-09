@@ -1,0 +1,7 @@
+C:\Mphasis dot net\Day 4\Assignment 5.2\Assignment 5.2\bin\Debug\Assignment 5.2.exe.config
+C:\Mphasis dot net\Day 4\Assignment 5.2\Assignment 5.2\bin\Debug\Assignment 5.2.exe
+C:\Mphasis dot net\Day 4\Assignment 5.2\Assignment 5.2\bin\Debug\Assignment 5.2.pdb
+C:\Mphasis dot net\Day 4\Assignment 5.2\Assignment 5.2\obj\Debug\Assignment 5.2.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 4\Assignment 5.2\Assignment 5.2\obj\Debug\Assignment 5.2.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 4\Assignment 5.2\Assignment 5.2\obj\Debug\Assignment 5.2.exe
+C:\Mphasis dot net\Day 4\Assignment 5.2\Assignment 5.2\obj\Debug\Assignment 5.2.pdb
